@@ -1,2 +1,2 @@
 # curso-jenkins
-Repo para el curso de Jenkins
+Repo para el curso de Jenkins 2026
